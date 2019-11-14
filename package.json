@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/TuNguyenThanh/react-native-effect-instagram/issues"
   },
-  "homepage": "https://github.com/TuNguyenThanh/react-native-effect-instagram#readme"
+  "homepage": "https://github.com/TuNguyenThanh/react-native-effect-instagram#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
