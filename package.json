@@ -1,0 +1,28 @@
+{
+  "name": "@tu-nguyen-tech/react-native-effect-instagram",
+  "version": "1.0.0",
+  "description": "react-native image effect like instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuNguyenThanh/react-native-effect-instagram.git"
+  },
+  "keywords": [
+    "react-native-effect-instagram",
+    "react-native",
+    "react-native-effect",
+    "effect-instagram",
+    "react-native-filter-instagram",
+    "react-native-filter-image",
+    "react-native-instagram"
+  ],
+  "author": "Nguyen Thanh Tu <thanhtu.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TuNguyenThanh/react-native-effect-instagram/issues"
+  },
+  "homepage": "https://github.com/TuNguyenThanh/react-native-effect-instagram#readme"
+}
