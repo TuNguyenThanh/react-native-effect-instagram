@@ -82,4 +82,4 @@ MIT
 
 `Library made by TuNguyen`
 
-Website: [tunguyen.tech](https:tunguyen.tech/)
+Website: [tunguyen.tech](https://tunguyen.tech)
