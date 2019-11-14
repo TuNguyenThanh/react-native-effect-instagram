@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/TuNguyenThanh/react-native-effect-instagram.git"
   },
+  "dependencies": {
+    "react-native-image-filter-kit": "^0.6.1",
+    "lodash": "^4.17.11"
+  },
   "keywords": [
     "react-native-effect-instagram",
     "react-native",
