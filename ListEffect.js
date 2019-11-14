@@ -40,7 +40,7 @@ export default class ListEffect extends React.PureComponent {
   renderImageFilter = ({ item, index }) => {
     const { imageDefault } = this.props
     const {
-      isShowTextEffect, textEffect,
+      isShowTextEffect, textEffectStyle,
       effectStyle, effectSelectedStyle
     } = this.props
     return (
@@ -55,7 +55,7 @@ export default class ListEffect extends React.PureComponent {
           >
             {
               isShowTextEffect &&
-              <Text style={[styles.textEffect, textEffect]} numberOfLines={1}>{item.filter}</Text>
+              <Text style={[styles.textEffect, textEffectStyle]} numberOfLines={1}>{item.filter}</Text>
             }
           </ImageBackground>
         </Effect>

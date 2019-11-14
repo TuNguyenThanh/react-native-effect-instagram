@@ -20,7 +20,7 @@ Example List                                     Example Grid
     | react-native     | min Android SDK | min iOS version |
     |------------------|-----------------|-----------------|
     | >=0.57.1         | 17              | 9.0             |
-    
+
 ## Installation
 To use this library, you will need install `react-native-image-filter-kit`, please refer to the [README / Install](https://github.com/iyegoroff/react-native-image-filter-kit#react-native-image-filter-kit).
 
@@ -72,7 +72,7 @@ state = {
 | Prop | Type | Description | Required | Default |
 |---|---|---|---|---|
 |**`style`**|`Object`|Custom style FilterInstagram component |`No`||
-|**`textEffect`**|`Object`|Custom text effect style |`No`||
+|**`textEffectStyle`**|`Object`|Custom text effect style |`No`||
 |**`effectSelectedStyle`**|`Object`|Style when effect selected|`No`||
 |**`imagePreviewStyle`**|`Object`|Custom style image preview|`No`||
 
