@@ -1,4 +1,5 @@
-# react-native-effect-instagram [![npm version](https://badge.fury.io/js/%40tu-nguyen-tech%2Freact-native-effect-instagram.svg)](https://badge.fury.io/js/%40tu-nguyen-tech%2Freact-native-effect-instagram)
+# @tu-nguyen-tech/react-native-effect-instagram
+[![npm version](https://badge.fury.io/js/%40tu-nguyen-tech%2Freact-native-effect-instagram.svg)](https://badge.fury.io/js/%40tu-nguyen-tech%2Freact-native-effect-instagram)
 
 [![NPM](https://nodei.co/npm/@tu-nguyen-tech/react-native-effect-instagram.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@tu-nguyen-tech/react-native-effect-instagram/)
 
