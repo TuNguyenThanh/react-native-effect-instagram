@@ -1,6 +1,6 @@
 {
   "name": "@tu-nguyen-tech/react-native-effect-instagram",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react-native image effect like instagram",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/TuNguyenThanh/react-native-effect-instagram.git"
   },
   "dependencies": {
-    "react-native-image-filter-kit": "^0.6.1",
+    "react-native-image-filter-kit": "^0.7.0",
     "lodash": "^4.17.11"
   },
   "keywords": [
